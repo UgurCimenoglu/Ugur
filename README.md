@@ -1,2 +1,2 @@
-# katmanlimimari
+# KatmanliMimari
 Katmanli Mimari kullanılarak bir login sistemi ve CRUD işlemlerinin yapılabildiği öğrenci kayıt otomasyonu...
