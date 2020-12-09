@@ -1,0 +1,17 @@
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimari.UI.WinForm\bin\Debug\KatmanliMimari.UI.WinForm.exe.config
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimari.UI.WinForm\bin\Debug\KatmanliMimari.UI.WinForm.exe
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimari.UI.WinForm\bin\Debug\KatmanliMimari.UI.WinForm.pdb
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimari.UI.WinForm\bin\Debug\KatmanliMimariBLL.dll
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimari.UI.WinForm\bin\Debug\KatmanliMimariDAL.dll
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimari.UI.WinForm\bin\Debug\KatmanliMimariBLL.pdb
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimari.UI.WinForm\bin\Debug\KatmanliMimariDAL.pdb
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimari.UI.WinForm\obj\Debug\KatmanliMimari.UI.WinForm.csprojAssemblyReference.cache
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimari.UI.WinForm\obj\Debug\KatmanliMimari.UI.WinForm.Form1.resources
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimari.UI.WinForm\obj\Debug\KatmanliMimari.UI.WinForm.Properties.Resources.resources
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimari.UI.WinForm\obj\Debug\KatmanliMimari.UI.WinForm.csproj.GenerateResource.cache
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimari.UI.WinForm\obj\Debug\KatmanliMimari.UI.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimari.UI.WinForm\obj\Debug\KatmanliMimari.UI.WinForm.csproj.CopyComplete
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimari.UI.WinForm\obj\Debug\KatmanliMimari.UI.WinForm.exe
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimari.UI.WinForm\obj\Debug\KatmanliMimari.UI.WinForm.pdb
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimari.UI.WinForm\obj\Debug\KatmanliMimari.UI.WinForm.Form2.resources
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimari.UI.WinForm\obj\Debug\KatmanliMimari.UI.WinForm.Form3.resources

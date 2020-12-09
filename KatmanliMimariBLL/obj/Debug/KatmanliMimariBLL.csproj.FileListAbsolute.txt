@@ -1,0 +1,9 @@
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimariBLL\bin\Debug\KatmanliMimariBLL.dll
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimariBLL\bin\Debug\KatmanliMimariBLL.pdb
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimariBLL\bin\Debug\KatmanliMimariDAL.dll
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimariBLL\bin\Debug\KatmanliMimariDAL.pdb
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimariBLL\obj\Debug\KatmanliMimariBLL.csprojAssemblyReference.cache
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimariBLL\obj\Debug\KatmanliMimariBLL.csproj.CoreCompileInputs.cache
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimariBLL\obj\Debug\KatmanliMimariBLL.csproj.CopyComplete
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimariBLL\obj\Debug\KatmanliMimariBLL.dll
+C:\Users\ugurc\source\repos\KatmanliMimariFinal\KatmanliMimariBLL\obj\Debug\KatmanliMimariBLL.pdb
